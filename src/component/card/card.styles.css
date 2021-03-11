@@ -1,0 +1,24 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #f7f2e7;
+    border: 1px solid #cd0a0a;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+
+.card-container:hover {
+    transform: scale(1.05);
+}
+
+.playerName{
+    font-family: 'Kaushan Script', cursive;
+}
+.posName{
+    font-family: 'Indie Flower';
+}
