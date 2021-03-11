@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clippers-roster/static/css/main.a9865c5b.chunk.css",
+    "main.js": "/clippers-roster/static/js/main.5c9b963c.chunk.js",
+    "main.js.map": "/clippers-roster/static/js/main.5c9b963c.chunk.js.map",
+    "runtime-main.js": "/clippers-roster/static/js/runtime-main.969257ae.js",
+    "runtime-main.js.map": "/clippers-roster/static/js/runtime-main.969257ae.js.map",
+    "static/js/2.e7087746.chunk.js": "/clippers-roster/static/js/2.e7087746.chunk.js",
+    "static/js/2.e7087746.chunk.js.map": "/clippers-roster/static/js/2.e7087746.chunk.js.map",
+    "static/js/3.8a5726d2.chunk.js": "/clippers-roster/static/js/3.8a5726d2.chunk.js",
+    "static/js/3.8a5726d2.chunk.js.map": "/clippers-roster/static/js/3.8a5726d2.chunk.js.map",
+    "index.html": "/clippers-roster/index.html",
+    "static/css/main.a9865c5b.chunk.css.map": "/clippers-roster/static/css/main.a9865c5b.chunk.css.map",
+    "static/js/2.e7087746.chunk.js.LICENSE.txt": "/clippers-roster/static/js/2.e7087746.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.969257ae.js",
+    "static/js/2.e7087746.chunk.js",
+    "static/css/main.a9865c5b.chunk.css",
+    "static/js/main.5c9b963c.chunk.js"
+  ]
+}
